@@ -1,1 +1,1 @@
-my first read me
+I love to code using shell
